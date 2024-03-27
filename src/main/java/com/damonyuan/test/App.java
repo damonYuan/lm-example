@@ -41,12 +41,12 @@ public class App {
                     double x = xData[i];
                     double y = yData[i];
 
-                    residuals[i] = y - (a * x * x + b * x + c);
+                    residuals[i] = (a * x * x + b * x + c) - y;
 
                     // Compute the partial derivatives (Jacobian matrix)
-                    jacobianData[i][0] = -x * x;
-                    jacobianData[i][1] = -x;
-                    jacobianData[i][2] = -1.0;
+                    jacobianData[i][0] = x * x;
+                    jacobianData[i][1] = x;
+                    jacobianData[i][2] = 1.0;
                 }
 
                 RealVector residualsVector = MatrixUtils.createRealVector(residuals);
