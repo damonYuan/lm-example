@@ -7,6 +7,8 @@ https://vnav.mit.edu/material/17-18-NonLinearLeastSquares-notes.pdf
 
 https://zlthinker.github.io/optimization-for-least-square-problem
 
+https://www.youtube.com/watch?v=CjrRFbQwKLA
+
 [Least squares](https://en.wikipedia.org/wiki/Least_squares#:~:text=Least%20squares%20problems%20fall%20into,has%20a%20closed%2Dform%20solution) problems fall into two categories: linear or ordinary least squares and nonlinear least squares, depending on whether or not the residuals are linear in all unknowns. The linear least-squares problem occurs in statistical regression analysis; it has a closed-form solution. The nonlinear problem is usually solved by iterative refinement; at each iteration the system is approximated by a linear one, and thus the core calculation is similar in both cases.
 
 # TODO
