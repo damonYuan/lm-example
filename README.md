@@ -5,7 +5,7 @@ Example for [OLS with Levenberg-Marquardt Optimizer](https://commons.apache.org/
 
 https://vnav.mit.edu/material/17-18-NonLinearLeastSquares-notes.pdf
 
-https://zlthinker.github.io/optimization-for-least-square-problem
+[Gauss-Newton algorithm for solving non linear least squares explained](https://zlthinker.github.io/optimization-for-least-square-problem)
 
 https://www.youtube.com/watch?v=CjrRFbQwKLA
 
