@@ -3,11 +3,11 @@ README
 
 Example for [OLS with Levenberg-Marquardt Optimizer](https://commons.apache.org/proper/commons-math/userguide/leastsquares.html).
 
-https://vnav.mit.edu/material/17-18-NonLinearLeastSquares-notes.pdf
+[Lecture 17-18: Least Squares Optimization](https://vnav.mit.edu/material/17-18-NonLinearLeastSquares-notes.pdf)
 
-[Gauss-Newton algorithm for solving non linear least squares explained](https://zlthinker.github.io/optimization-for-least-square-problem)
+[Optimization for Least Square Problems](https://zlthinker.github.io/optimization-for-least-square-problem)
 
-https://www.youtube.com/watch?v=CjrRFbQwKLA
+[Gauss-Newton algorithm for solving non linear least squares explained](https://www.youtube.com/watch?v=CjrRFbQwKLA)
 
 [Lecture 13: Non-linear least squares and the Gauss-Newton method](https://www.uio.no/studier/emner/matnat/math/MAT3110/h19/undervisningsmateriale/lecture13.pdf)
 
